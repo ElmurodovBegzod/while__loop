@@ -1,5 +1,5 @@
 void main() {
-  for (int a = 0; a < 100; a++) {
+  for (int a = 0; a < 1000; a++) {
     print('Begzod');
   }
 
