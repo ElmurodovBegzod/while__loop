@@ -1,5 +1,5 @@
 void main() {
-  for (int a = 100; a < 1001; a++) {
+  for (int a = 100; a < 1000; a++) {
     if (a % 2 == 1) {
       print(a);
     }
